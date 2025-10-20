@@ -1,0 +1,16 @@
+[
+    {
+        "title": "học lập trình",
+        "details": "python hằng ngày",
+        "priority": "Trung bình",
+        "due_date": "2025-10-30",
+        "completed": false
+    },
+    {
+        "title": "thể thao",
+        "details": "cầu lông hôm nay",
+        "priority": "Trung bình",
+        "due_date": "2025-10-17",
+        "completed": false
+    }
+]
